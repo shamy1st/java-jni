@@ -1,2 +1,5 @@
-# java-jni
-Java Native Interface
+# Java Native Interface
+
+
+## Ref
+* https://www.baeldung.com/jni
